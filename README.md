@@ -1,4 +1,4 @@
-#Chrome Extension for saving hyperlinks
+# Chrome Extension for saving hyperlinks
 
 ## This is a study project about using Chrome API 
 # Tools:
